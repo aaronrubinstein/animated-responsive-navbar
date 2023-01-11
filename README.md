@@ -1,4 +1,4 @@
-## Responsive Animated CSS Icon Navbar ##
+# Responsive Animated CSS Icon Navbar #
 
 https://github.com/fireship-io/222-responsive-icon-nav-css
 
