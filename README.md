@@ -2,4 +2,4 @@
 
 https://github.com/fireship-io/222-responsive-icon-nav-css
 
-<img src="./solution/desktop.jpg" height="50%" width="50%">
+<img src="./solution/desktop.jpg" height="70%" width="70%">
